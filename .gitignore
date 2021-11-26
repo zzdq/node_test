@@ -1,8 +1,15 @@
-.sass-cache
-node_modules
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+tests/**/coverage/
 
-sass/.csscomb.json
-sass/.csslintrc
-
-js/.jscsrc
-js/.jshintrc
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
